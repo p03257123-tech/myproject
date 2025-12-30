@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WGCCI.Accounting.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\DTOs\\AccountingDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WGCCI.Accounting.Api\\DTOs\\AccountingDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\Entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WGCCI.Accounting.Api\\Data\\Entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\Enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WGCCI.Accounting.Api\\Data\\Enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\DesignTimeFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WGCCI.Accounting.Api\\Data\\DesignTimeFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WGCCI.Accounting.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\appsettings.Development.json",
+              "RelativeToolTip": "WGCCI.Accounting.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T20:54:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignTimeFactory.cs",
+              "DocumentMoniker": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\DesignTimeFactory.cs",
+              "RelativeDocumentMoniker": "WGCCI.Accounting.Api\\Data\\DesignTimeFactory.cs",
+              "ToolTip": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\DesignTimeFactory.cs",
+              "RelativeToolTip": "WGCCI.Accounting.Api\\Data\\DesignTimeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:47:56.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\Enums.cs",
+              "RelativeDocumentMoniker": "WGCCI.Accounting.Api\\Data\\Enums.cs",
+              "ToolTip": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\Enums.cs",
+              "RelativeToolTip": "WGCCI.Accounting.Api\\Data\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:47:31.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountingDtos.cs",
+              "DocumentMoniker": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\DTOs\\AccountingDtos.cs",
+              "RelativeDocumentMoniker": "WGCCI.Accounting.Api\\DTOs\\AccountingDtos.cs",
+              "ToolTip": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\DTOs\\AccountingDtos.cs",
+              "RelativeToolTip": "WGCCI.Accounting.Api\\DTOs\\AccountingDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:38:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\Entities.cs",
+              "RelativeDocumentMoniker": "WGCCI.Accounting.Api\\Data\\Entities.cs",
+              "ToolTip": "C:\\code\\wgcci_accounting_dotnet_azure_fixed\\wgcci_accounting_dotnet_azure\\WGCCI.Accounting.Api\\Data\\Entities.cs",
+              "RelativeToolTip": "WGCCI.Accounting.Api\\Data\\Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:31:42.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+name: Build & Deploy to Azure Web App
+on:
+  push:
+    branches: [ main ]
+env:
+  AZURE_WEBAPP_NAME: wgcci-accounting-api
+  DOTNET_VERSION: '8.0.x'
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with: { dotnet-version: ${{ env.DOTNET_VERSION }} }
+      - name: Restore
+        run: dotnet restore WGCCI.Accounting.Api/WGCCI.Accounting.Api.csproj
+      - name: Build
+        run: dotnet build WGCCI.Accounting.Api/WGCCI.Accounting.Api.csproj --configuration Release --no-restore
+      - name: Publish
+        run: dotnet publish WGCCI.Accounting.Api/WGCCI.Accounting.Api.csproj -c Release -o published
+      - name: Deploy
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: ${{ env.AZURE_WEBAPP_NAME }}
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          package: published
